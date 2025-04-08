@@ -9,5 +9,4 @@
 </p>
 <img src= "https://github-profile-trophy.vercel.app/?username=10-manuela&row=1&theme=darkhub&margin-w=15&no-bg=true" \>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=10-manuela&show_icons=true&locale=en&layout=compact&theme=cobalt" \>
-<img src= "https://github-readme-streak-stats.herokuapp.com?user=10-manuela&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" \>
 <img src= "https://github-readme-stats.vercel.app/api?username=10-manuela&show_icons=true&locale=en&theme=tokyonight" \>
