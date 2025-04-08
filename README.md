@@ -1,5 +1,6 @@
 <h1 align="center"> Matchoo Tagheu Ange Manuela</h1>
-<h2 align="center">Data Scientist|Digital Humanities Engineer</h2>
+<h2 align="center">Digital Humanities engineer | Data Analyst | Developer | Mathematic teacher
+</h2>
 <p align="center">
   <a href="https://linkedin.com/in/baimamboukar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@baimamboukar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
